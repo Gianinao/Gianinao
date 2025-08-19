@@ -115,8 +115,8 @@ Tenho perfil colaborativo, adaptável e orientado a resultados, buscando transfo
     align="left" 
     alt="Power BI" 
     title="Power BI"
-    width="180px" 
-    style="padding-right: 300px;" 
+    width="120px" 
+    style="padding-right: 150px;" 
     src="https://thimantha.wordpress.com/wp-content/uploads/2018/08/maxresdefault1.jpg"
 />
 

@@ -38,13 +38,3 @@ Tenho perfil colaborativo, adaptável e orientado a resultados, buscando transfo
 Descrição: Projeto de análise e previsão de churn em clientes do varejo, utilizando Python, SQL e Power BI.  
 
 <br/>
-
-### 🍽️ Projeto TechTaste – Análise de Avaliações  
-🔗 [Repositório](https://github.com/Gianinao/techtaste-reviews)  
-Descrição: Estudo estatístico de satisfação de clientes, com cálculos de intervalo de confiança e visualização de distribuições.  
-
-<br/>
-
-### 🌎 Projeto Imigração para o Canadá  
-🔗 [Repositório](https://github.com/Gianinao/canada-immigration)  
-Descrição: Análise de tendências migratórias do Brasil e América do Sul para o Canadá, com gráficos interativos (Matplotlib, Seaborn, Plotly).  

@@ -1,4 +1,4 @@
-# 💻👨‍💻 Lucas Gianini
+# 💻👨‍💻 Lucas Guedes Gianini
 
 **`Cientista de Dados`**
 

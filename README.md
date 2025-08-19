@@ -77,7 +77,7 @@ Tenho perfil colaborativo, adaptável e orientado a resultados, buscando transfo
     title="Apache Hadoop"
     width="80px" 
     style="padding-right: 100px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original-wordmark.svg"
 />
 <img 
     align="left" 
@@ -93,7 +93,7 @@ Tenho perfil colaborativo, adaptável e orientado a resultados, buscando transfo
     title="SQL Developer"
     width="80px" 
     style="padding-right: 100px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" 
 />
 <img 
     align="left" 
@@ -101,7 +101,7 @@ Tenho perfil colaborativo, adaptável e orientado a resultados, buscando transfo
     title="Power BI"
     width="80px" 
     style="padding-right: 100px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+    src="https://assets.dio.me/AqBV_0kVyg2No_u7qQrWnqUNwmHLd4uyBUghLkZmtW0/f:webp/q:80/L2FydGljbGVzL2NvdmVyL2VmZjJmNTIyLTcyMjEtNDVlZC1hNGQ0LTUyMjI5ZDc3YzBjZS5qcGc"
 />
 <img 
     align="left" 

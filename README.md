@@ -11,121 +11,40 @@ Tenho perfil colaborativo, adaptável e orientado a resultados, buscando transfo
 ---
 
 
-### 🤖 Linguagens e Tecnologias
+## 🛠️ Linguagens e Tecnologias
 
-<p>
-
-<img 
-    align="left" 
-    alt="Power BI" 
-    title="Power BI"
-    width="120px" 
-    style="padding-right: 150px;" 
-    src="https://thimantha.wordpress.com/wp-content/uploads/2018/08/maxresdefault1.jpg"
-/>
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="80px" 
-    style="padding-right: 100px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="80px" 
-    style="padding-right: 100px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="80px" 
-    style="padding-right: 100px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C#"
-    title="C#" 
-    width="80px" 
-    style="padding-right: 100px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Oracle Cloud"
-    title="Oracle Cloud" 
-    width="80px" 
-    style="padding-right: 100px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="80px" 
-    style="padding-right: 100px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt="MongoDB"
-    title="MongoDB" 
-    width="80px" 
-    style="padding-right: 100px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Apache Hadoop" 
-    title="Apache Hadoop"
-    width="80px" 
-    style="padding-right: 100px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt="Apache Kafka" 
-    title="Apache Kafka"
-    width="80px" 
-    style="padding-right: 100px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt="SQL Developer" 
-    title="SQL Developer"
-    width="80px" 
-    style="padding-right: 100px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="80px" 
-    style="padding-right: 100px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="90px" 
-    style="padding-right: 110px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="128"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="128"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="128"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="128"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="128"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="128"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="128"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="128"/>
+  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" height="128"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" height="128"/>
 </p>
 
-----------------------------------
 
-<p>
-Projetos:
-    IBM Churn Challenge
-</p>
+
+
+<br/> <!-- espaço embaixo dos ícones -->
+
+## 🚀 Projetos
+
+### 📊 Projeto IBM – Churn Challenge  
+🔗 [Repositório](https://github.com/Gianinao/ibm-churn-challenge)  
+Descrição: Projeto de análise e previsão de churn em clientes do varejo, utilizando Python, SQL e Power BI.  
+
+<br/>
+
+### 🍽️ Projeto TechTaste – Análise de Avaliações  
+🔗 [Repositório](https://github.com/Gianinao/techtaste-reviews)  
+Descrição: Estudo estatístico de satisfação de clientes, com cálculos de intervalo de confiança e visualização de distribuições.  
+
+<br/>
+
+### 🌎 Projeto Imigração para o Canadá  
+🔗 [Repositório](https://github.com/Gianinao/canada-immigration)  
+Descrição: Análise de tendências migratórias do Brasil e América do Sul para o Canadá, com gráficos interativos (Matplotlib, Seaborn, Plotly).  

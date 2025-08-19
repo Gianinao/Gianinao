@@ -116,7 +116,7 @@ Tenho perfil colaborativo, adaptável e orientado a resultados, buscando transfo
     alt="Power BI" 
     title="Power BI"
     width="180px" 
-    style="padding-right: 360px;" 
+    style="padding-right: 300px;" 
     src="https://media.licdn.com/dms/image/v2/D5612AQF901-YIRNO6Q/article-cover_image-shrink_720_1280/B56ZXDgx1AGUAM-/0/1742741908320?e=2147483647&v=beta&t=UuRosrVjxDu7DuZ9h2bed98D0DeZRFnVXKHQYIksATM"
 />
 

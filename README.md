@@ -51,40 +51,40 @@ Tenho perfil colaborativo, adaptável e orientado a resultados, buscando transfo
     align="left" 
     alt="Oracle Cloud"
     title="Oracle Cloud" 
-    width="40px" 
-    style="padding-right: 20px;" 
+    width="60px" 
+    style="padding-right: 80px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
 />
 <img 
     align="left" 
     alt="MySQL" 
     title="MySQL"
-    width="40px" 
-    style="padding-right: 20px;" 
+    width="60px" 
+    style="padding-right: 80px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
 />
 <img 
     align="left" 
     alt="MongoDB"
     title="MongoDB" 
-    width="40px" 
-    style="padding-right: 20px;" 
+    width="60px" 
+    style="padding-right: 80px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" 
 />
 <img 
     align="left" 
     alt="Apache Hadoop" 
     title="Apache Hadoop"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="60px" 
+    style="padding-right: 80px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 <img 
     align="left" 
     alt="Apache Kafka" 
     title="Apache Kafka"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="60px" 
+    style="padding-right: 80px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg"
 />
 <img 

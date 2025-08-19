@@ -2,7 +2,7 @@
 
 **`Cientista de Dados`**
 
-Sou Lucas Guedes Gianini, estudante de Data Science na FIAP, em busca do meu primeiro estágio em Ciência de Dados ou Engenharia de Dados. Tenho experiência acadêmica em projetos com IBM e FIAP, onde atuei em análises preditivas, manipulação de dados com Python e SQL, e criação de dashboards estratégicos no Power BI.
+Sou Lucas Guedes Gianini, estudante de Data Science do segundo ano na FIAP, em busca do meu primeiro estágio em Ciência de Dados ou Engenharia de Dados. Tenho experiência acadêmica em projetos com IBM e FIAP, onde atuei em análises preditivas, manipulação de dados com Python e SQL, e criação de dashboards estratégicos no Power BI.
 
 Possuo domínio em ferramentas de análise, modelagem e visualização de dados, além de conhecimentos em Big Data, Cloud, ETL e bancos de dados relacionais e não relacionais. Meu portfólio inclui projetos como previsão de churn para varejo (FIAP + IBM) e desenvolvimento de soluções aplicadas em business intelligence.
 

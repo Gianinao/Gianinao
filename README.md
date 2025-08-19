@@ -122,3 +122,10 @@ Tenho perfil colaborativo, adaptável e orientado a resultados, buscando transfo
 />
 
 </p>
+
+----------------------------------
+
+<p>
+Projetos:
+    IBM Churn Challenge
+</p>

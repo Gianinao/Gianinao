@@ -115,8 +115,8 @@ Tenho perfil colaborativo, adaptável e orientado a resultados, buscando transfo
     align="left" 
     alt="Python" 
     title="Python"
-    width="80px" 
-    style="padding-right: 100px;" 
+    width="90px" 
+    style="padding-right: 110px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 

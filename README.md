@@ -33,8 +33,8 @@ Tenho perfil colaborativo, adaptável e orientado a resultados, buscando transfo
 
 ## 🚀 Projetos
 
-### 📊 Projeto IBM – Churn Challenge  
-🔗 [Repositório](https://github.com/Gianinao/ibm-churn-challenge)  
+#### 📊 Projeto IBM – Churn Challenge  
+##🔗 [Repositório](https://github.com/Gianinao/ibm-churn-challenge) ##
 Descrição: Projeto de análise e previsão de churn em clientes do varejo, utilizando Python, SQL e Power BI.  
 
 <br/>

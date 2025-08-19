@@ -101,7 +101,7 @@ Tenho perfil colaborativo, adaptável e orientado a resultados, buscando transfo
     title="Power BI"
     width="80px" 
     style="padding-right: 100px;" 
-    src="https://assets.dio.me/AqBV_0kVyg2No_u7qQrWnqUNwmHLd4uyBUghLkZmtW0/f:webp/q:80/L2FydGljbGVzL2NvdmVyL2VmZjJmNTIyLTcyMjEtNDVlZC1hNGQ0LTUyMjI5ZDc3YzBjZS5qcGc"
+    src="https://media.licdn.com/dms/image/v2/D5612AQF901-YIRNO6Q/article-cover_image-shrink_720_1280/B56ZXDgx1AGUAM-/0/1742741908320?e=2147483647&v=beta&t=UuRosrVjxDu7DuZ9h2bed98D0DeZRFnVXKHQYIksATM"
 />
 <img 
     align="left" 

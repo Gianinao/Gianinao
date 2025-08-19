@@ -19,104 +19,104 @@ Tenho perfil colaborativo, adaptável e orientado a resultados, buscando transfo
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="80px" 
+    style="padding-right: 100px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="80px" 
+    style="padding-right: 100px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="80px" 
+    style="padding-right: 100px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
     align="left" 
     alt="C#"
     title="C#" 
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="80px" 
+    style="padding-right: 100px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
 />
 <img 
     align="left" 
     alt="Oracle Cloud"
     title="Oracle Cloud" 
-    width="60px" 
-    style="padding-right: 80px;" 
+    width="80px" 
+    style="padding-right: 100px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
 />
 <img 
     align="left" 
     alt="MySQL" 
     title="MySQL"
-    width="60px" 
-    style="padding-right: 80px;" 
+    width="80px" 
+    style="padding-right: 100px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
 />
 <img 
     align="left" 
     alt="MongoDB"
     title="MongoDB" 
-    width="60px" 
-    style="padding-right: 80px;" 
+    width="80px" 
+    style="padding-right: 100px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" 
 />
 <img 
     align="left" 
     alt="Apache Hadoop" 
     title="Apache Hadoop"
-    width="60px" 
-    style="padding-right: 80px;" 
+    width="80px" 
+    style="padding-right: 100px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 <img 
     align="left" 
     alt="Apache Kafka" 
     title="Apache Kafka"
-    width="60px" 
-    style="padding-right: 80px;" 
+    width="80px" 
+    style="padding-right: 100px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg"
 />
 <img 
     align="left" 
     alt="SQL Developer" 
     title="SQL Developer"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="80px" 
+    style="padding-right: 100px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original-wordmark.svg"
 />
 <img 
     align="left" 
     alt="Power BI" 
     title="Power BI"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="80px" 
+    style="padding-right: 100px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
 <img 
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="80px" 
+    style="padding-right: 100px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="80px" 
+    style="padding-right: 100px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 

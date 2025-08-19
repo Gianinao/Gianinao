@@ -97,14 +97,6 @@ Tenho perfil colaborativo, adaptável e orientado a resultados, buscando transfo
 />
 <img 
     align="left" 
-    alt="Power BI" 
-    title="Power BI"
-    width="200px" 
-    style="padding-right: 400px;" 
-    src="https://media.licdn.com/dms/image/v2/D5612AQF901-YIRNO6Q/article-cover_image-shrink_720_1280/B56ZXDgx1AGUAM-/0/1742741908320?e=2147483647&v=beta&t=UuRosrVjxDu7DuZ9h2bed98D0DeZRFnVXKHQYIksATM"
-/>
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="80px" 
@@ -118,6 +110,14 @@ Tenho perfil colaborativo, adaptável e orientado a resultados, buscando transfo
     width="90px" 
     style="padding-right: 110px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Power BI" 
+    title="Power BI"
+    width="180px" 
+    style="padding-right: 360px;" 
+    src="https://media.licdn.com/dms/image/v2/D5612AQF901-YIRNO6Q/article-cover_image-shrink_720_1280/B56ZXDgx1AGUAM-/0/1742741908320?e=2147483647&v=beta&t=UuRosrVjxDu7DuZ9h2bed98D0DeZRFnVXKHQYIksATM"
 />
 
 </p>

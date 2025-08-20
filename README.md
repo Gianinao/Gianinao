@@ -24,6 +24,7 @@ Tenho perfil colaborativo, adaptável e orientado a resultados, buscando transfo
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="128"/>
   <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" height="128"/>
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" height="128"/>
+  <img src= "https://img.shields.io/badge/SQL%20DEVELOPER-5A2D82?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPGVsbGlwc2UgY3g9JzEyJyBjeT0nNScgcng9JzknIHJ5PSczJyBmaWxsPSd3aGl0ZScvPjxwYXRoIGQ9J00zIDV2MTBjMCAxLjcgNCAzIDkgM3M5LTEuMyA5LTNWNScgZmlsbD0nbm9uZScgc3Ryb2tlPSd3aGl0ZScgc3Ryb2tlLXdpZHRoPScyJy8%2BPGVsbGlwc2UgY3g9JzEyJyBjeT0nMTUnIHJ4PSc5JyByeT0nMycgZmlsbD0nd2hpdGUnLz48L3N2Zz4%3D"/>
 </p>
 
 
@@ -37,6 +38,8 @@ Tenho perfil colaborativo, adaptável e orientado a resultados, buscando transfo
 🔗 [Repositório no GitHub](https://github.com/Gianinao/ibm-churn-challenge)  
 
 **Descrição:** Desenvolvimento de um projeto completo de análise e previsão de churn no setor de varejo, com foco em entender o comportamento dos clientes e identificar padrões de cancelamento. A solução foi construída utilizando **Python** para tratamento e modelagem de dados, **SQL** para manipulação e consultas em banco, e **Power BI** para visualização interativa e geração de insights estratégicos para o negócio.  
+
+### 📊 Projeto GS FIAP - Risco de Enchentes
 
 
 <br/>

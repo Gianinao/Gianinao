@@ -42,4 +42,5 @@ Tenho perfil colaborativo, adaptável e orientado a resultados, buscando transfo
 ### 📊 Projeto GS FIAP - Risco de Enchentes
 🔗 [Repositório no GitHub](https://github.com/Gianinao/gsfiap-risco-de-enchentes) 
 
+**Descrição:** O Hydro Safe é um painel de alerta inteligente para enchentes: reunimos dados de chuva e nível de rios, aplicamos IA (Random Forest) e entregamos tudo em um mapa interativo com KPIs de severidade por bairro, para você priorizar áreas, avisar moradores e mobilizar equipes com antecedência.
 <br/>

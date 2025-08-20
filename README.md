@@ -39,7 +39,7 @@ Tenho perfil colaborativo, adaptável e orientado a resultados, buscando transfo
 
 **Descrição:** Desenvolvimento de um projeto completo de análise e previsão de churn no setor de varejo, com foco em entender o comportamento dos clientes e identificar padrões de cancelamento. A solução foi construída utilizando **Python** para tratamento e modelagem de dados, **SQL** para manipulação e consultas em banco, e **Power BI** para visualização interativa e geração de insights estratégicos para o negócio.  
 
-### 📊 Projeto GS FIAP - Risco de Enchentes
+### 📈 Projeto GS FIAP - Risco de Enchentes
 🔗 [Repositório no GitHub](https://github.com/Gianinao/gsfiap-risco-de-enchentes) 
 
 **Descrição:** O Hydro Safe é um painel de alerta inteligente para enchentes: reunimos dados de chuva e nível de rios, aplicamos IA (Random Forest) e entregamos tudo em um mapa interativo com KPIs de severidade por bairro, para você priorizar áreas, avisar moradores e mobilizar equipes com antecedência.
